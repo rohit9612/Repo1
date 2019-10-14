@@ -1,10 +1,1 @@
- Volume in drive D has no label.
- Volume Serial Number is 740F-FB5D
-
- Directory of D:\Workspace\MY PROJECT
-
-10/14/2019  07:53 PM    <DIR>          .
-10/14/2019  07:53 PM    <DIR>          ..
-10/14/2019  07:53 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  65,137,651,712 bytes free
+ ROHIT SINGH
